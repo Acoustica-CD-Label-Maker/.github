@@ -1,7 +1,7 @@
 # Acoustica CD Label Maker – Professional CD/DVD Label Design Software
 
 <p align="center">
-  <img src="https://www.bhphotovideo.com/images/fb/acoustica_acta_2dl_cd_dvd_label_maker_1263222.jpg" alt="Acoustica CD Label Maker"/>
+  <img src="https://acoustica.de/getmedia.php/_media/201903/6v0-orig.png.pagespeed.ce.O4PdCF9L0N.png" alt="Acoustica CD Label Maker"/>
 </p>
 
 <p align="center">
